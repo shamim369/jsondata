@@ -1,0 +1,39 @@
+[
+
+   {
+
+      "id":1,
+
+      "name":"Dr. Usman Haidar",
+
+      "username":"usman",
+
+      "password":"123",
+
+      "imageUrl":"https://s3-eu-west-1.amazonaws.com/intercare-web-public/wysiwyg-uploads%2F1569586526901-doctor.jpg",
+
+      "email":"usman@gmail.com",
+
+      "status":"doctor"
+
+   },
+
+   {
+
+      "id":2,
+
+      "name":"Shamim Hossain",
+
+      "username":"shamim",
+
+      "password":"123",
+
+      "imageUrl":"https://scontent.fdac17-1.fna.fbcdn.net/v/t1.0-9/100389587_1319092081775794_8732380583985938432_o.jpg?_nc_cat=111&ccb=2&_nc_sid=09cbfe&_nc_eui2=AeG9LlDvwvgYb6tXHuKIIpq9ztRh147WaFjO1GHXjtZoWD5rYQOG45i8smFiYTJ099hry7z1MDa2KfvAdelUnDNI&_nc_ohc=o--e8Sj2fdkAX98bhRv&_nc_ht=scontent.fdac17-1.fna&oh=63593bcad6e112b75954350c283486f6&oe=6011FBD7",
+
+      "email":"shamim@gmail.com",
+
+      "status":"patent"
+
+   }
+
+]

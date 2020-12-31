@@ -1,0 +1,92 @@
+[
+   {
+      "id":1,
+      "name":"Dr. Usman Haidar",
+      "fees":"1000",
+      "spacialist":"Medicine",
+      "imageUrl":"https://s3-eu-west-1.amazonaws.com/intercare-web-public/wysiwyg-uploads%2F1569586526901-doctor.jpg",
+      "email":"usman@gmail.com",
+      "status":"doctor"
+   },
+   {
+      "id":2,
+      "name":"Dr. Akram Haidar",
+      "fees":"1000",
+      "spacialist":"Medicine",
+      "imageUrl":"https://s3-eu-west-1.amazonaws.com/intercare-web-public/wysiwyg-uploads%2F1569586526901-doctor.jpg",
+      "email":"akram@gmail.com",
+      "status":"doctor"
+   },
+   {
+      "id":3,
+      "name":"Dr. Usman Haidar",
+      "fees":"1000",
+      "spacialist":"Medicine",
+      "imageUrl":"https://s3-eu-west-1.amazonaws.com/intercare-web-public/wysiwyg-uploads%2F1569586526901-doctor.jpg",
+      "email":"usman@gmail.com",
+      "status":"doctor"
+   },
+   {
+      "id":4,
+      "name":"Dr. Akram Haidar",
+      "fees":"1000",
+      "spacialist":"Medicine",
+      "imageUrl":"https://s3-eu-west-1.amazonaws.com/intercare-web-public/wysiwyg-uploads%2F1569586526901-doctor.jpg",
+      "email":"akram@gmail.com",
+      "status":"doctor"
+   },
+   {
+      "id":5,
+      "name":"Dr. Usman Haidar",
+      "fees":"1000",
+      "spacialist":"Medicine",
+      "imageUrl":"https://s3-eu-west-1.amazonaws.com/intercare-web-public/wysiwyg-uploads%2F1569586526901-doctor.jpg",
+      "email":"usman@gmail.com",
+      "status":"doctor"
+   },
+   {
+      "id":6,
+      "name":"Dr. Akram Haidar",
+      "fees":"1000",
+      "spacialist":"Medicine",
+      "imageUrl":"https://s3-eu-west-1.amazonaws.com/intercare-web-public/wysiwyg-uploads%2F1569586526901-doctor.jpg",
+      "email":"akram@gmail.com",
+      "status":"doctor"
+   },
+   {
+      "id":7,
+      "name":"Dr. Usman Haidar",
+      "fees":"1000",
+      "spacialist":"Medicine",
+      "imageUrl":"https://s3-eu-west-1.amazonaws.com/intercare-web-public/wysiwyg-uploads%2F1569586526901-doctor.jpg",
+      "email":"usman@gmail.com",
+      "status":"doctor"
+   },
+   {
+      "id":8,
+      "name":"Dr. Akram Haidar",
+      "fees":"1000",
+      "spacialist":"Medicine",
+      "imageUrl":"https://s3-eu-west-1.amazonaws.com/intercare-web-public/wysiwyg-uploads%2F1569586526901-doctor.jpg",
+      "email":"akram@gmail.com",
+      "status":"doctor"
+   },
+   {
+      "id":9,
+      "name":"Dr. Usman Haidar",
+      "fees":"1000",
+      "spacialist":"Medicine",
+      "imageUrl":"https://s3-eu-west-1.amazonaws.com/intercare-web-public/wysiwyg-uploads%2F1569586526901-doctor.jpg",
+      "email":"usman@gmail.com",
+      "status":"doctor"
+   },
+   {
+      "id":10,
+      "name":"Dr. Akram Haidar",
+      "fees":"1000",
+      "spacialist":"Medicine",
+      "imageUrl":"https://s3-eu-west-1.amazonaws.com/intercare-web-public/wysiwyg-uploads%2F1569586526901-doctor.jpg",
+      "email":"akram@gmail.com",
+      "status":"doctor"
+   }
+]
