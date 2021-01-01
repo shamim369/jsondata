@@ -2,56 +2,56 @@
    {
       "id":1,
       "patientname":"Shamim",
-      "doctorname":"01700000000",
+      "doctorname":"Dr. Usman haidar",
       "dateandtime":"18-10-20 08:10 PM",
       "fees":"1000"
    },
    {
       "id":2,
       "patientname":"korim",
-      "doctorname":"01700000000",
+      "doctorname":"Dr. Tom",
       "dateandtime":"18-10-20 08:10 PM",
       "fees":"1000"
    },
    {
       "id":3,
       "patientname":"Rohim",
-      "doctorname":"01700000000",
+      "doctorname":"Dr. Jerry",
       "dateandtime":"18-10-20 08:10 PM",
       "fees":"1000"
    },
    {
       "id":4,
       "patientname":"korim",
-      "doctorname":"01700000000",
+      "doctorname":"Dr. Jini",
       "dateandtime":"18-10-20 08:10 PM",
       "fees":"1000"
    },
    {
       "id":5,
       "patientname":"Rohim",
-      "doctorname":"01700000000",
+      "doctorname":"Dr. Rumi",
       "dateandtime":"18-10-20 08:10 PM",
       "fees":"1000"
    },
    {
       "id":6,
       "patientname":"korim",
-      "doctorname":"01700000000",
+      "doctorname":"Dr. Manik",
       "dateandtime":"18-10-20 08:10 PM",
       "fees":"1000"
    },
    {
       "id":7,
       "patientname":"Rohim",
-      "doctorname":"01700000000",
+      "doctorname":"Dr. Nobin",
       "dateandtime":"18-10-20 08:10 PM",
       "fees":"1000"
    },
    {
       "id":8,
       "patientname":"korim",
-      "doctorname":"01700000000",
+      "doctorname":"Dr. Nirob",
       "dateandtime":"18-10-20 08:10 PM",
       "fees":"1000"
    }
